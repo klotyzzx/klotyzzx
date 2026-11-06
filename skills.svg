@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="210" viewBox="0 0 980 210" role="img" aria-label="Tech stack: Python, Java, C++20, C#, MinHook">
+<defs><filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'DejaVu Sans Mono',monospace}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+  @keyframes pulse{0%,100%{opacity:.12}50%{opacity:.4}}
+  .float{animation:float 4.5s ease-in-out infinite}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+</style>
+<g transform="translate(0,20)"><g class="float" style="animation-delay:-0.0s">
+  <rect width="176" height="170" rx="14" fill="#0d1117" stroke="#1f2a37"/>
+  <rect width="176" height="3" rx="1.5" fill="#ffd43b"/>
+  <circle class="pulse" cx="88" cy="76" r="34" fill="#ffd43b" opacity=".18" filter="url(#blur)" style="animation-delay:-0.0s"/>
+  <text x="88" y="92" font-size="44" font-weight="800" text-anchor="middle" fill="#ffd43b">Py</text>
+  <text x="88" y="132" font-size="18" font-weight="700" text-anchor="middle" fill="#e6edf3">Python</text>
+  <text x="88" y="152" font-size="12" text-anchor="middle" fill="#8b98a9">tools · scripting</text>
+</g></g>
+<g transform="translate(201,20)"><g class="float" style="animation-delay:-0.7s">
+  <rect width="176" height="170" rx="14" fill="#0d1117" stroke="#1f2a37"/>
+  <rect width="176" height="3" rx="1.5" fill="#f89820"/>
+  <circle class="pulse" cx="88" cy="76" r="34" fill="#f89820" opacity=".18" filter="url(#blur)" style="animation-delay:-0.5s"/>
+  <text x="88" y="92" font-size="44" font-weight="800" text-anchor="middle" fill="#f89820">Jv</text>
+  <text x="88" y="132" font-size="18" font-weight="700" text-anchor="middle" fill="#e6edf3">Java</text>
+  <text x="88" y="152" font-size="12" text-anchor="middle" fill="#8b98a9">JVM · applications</text>
+</g></g>
+<g transform="translate(402,20)"><g class="float" style="animation-delay:-1.4s">
+  <rect width="176" height="170" rx="14" fill="#0d1117" stroke="#1f2a37"/>
+  <rect width="176" height="3" rx="1.5" fill="#00b4ff"/>
+  <circle class="pulse" cx="88" cy="76" r="34" fill="#00b4ff" opacity=".18" filter="url(#blur)" style="animation-delay:-1.0s"/>
+  <text x="88" y="92" font-size="44" font-weight="800" text-anchor="middle" fill="#00b4ff">C++</text>
+  <text x="88" y="132" font-size="18" font-weight="700" text-anchor="middle" fill="#e6edf3">C++20</text>
+  <text x="88" y="152" font-size="12" text-anchor="middle" fill="#8b98a9">native · systems</text>
+</g></g>
+<g transform="translate(603,20)"><g class="float" style="animation-delay:-2.1s">
+  <rect width="176" height="170" rx="14" fill="#0d1117" stroke="#1f2a37"/>
+  <rect width="176" height="3" rx="1.5" fill="#a66bff"/>
+  <circle class="pulse" cx="88" cy="76" r="34" fill="#a66bff" opacity=".18" filter="url(#blur)" style="animation-delay:-1.5s"/>
+  <text x="88" y="92" font-size="44" font-weight="800" text-anchor="middle" fill="#a66bff">C#</text>
+  <text x="88" y="132" font-size="18" font-weight="700" text-anchor="middle" fill="#e6edf3">C#</text>
+  <text x="88" y="152" font-size="12" text-anchor="middle" fill="#8b98a9">.NET · desktop</text>
+</g></g>
+<g transform="translate(804,20)"><g class="float" style="animation-delay:-2.8s">
+  <rect width="176" height="170" rx="14" fill="#0d1117" stroke="#1f2a37"/>
+  <rect width="176" height="3" rx="1.5" fill="#ff3d81"/>
+  <circle class="pulse" cx="88" cy="76" r="34" fill="#ff3d81" opacity=".18" filter="url(#blur)" style="animation-delay:-2.0s"/>
+  <text x="88" y="92" font-size="44" font-weight="800" text-anchor="middle" fill="#ff3d81">jmp</text>
+  <text x="88" y="132" font-size="18" font-weight="700" text-anchor="middle" fill="#e6edf3">MinHook</text>
+  <text x="88" y="152" font-size="12" text-anchor="middle" fill="#8b98a9">API hooking</text>
+</g></g>
+</svg>
