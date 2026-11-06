@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/header.svg" width="100%" alt="klotyzzx: native code, tools, hooks">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/header.svg" width="100%" alt="klotyzzx: native code, tools, hooks">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/divider.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/divider.svg" width="100%" alt="">
 
 ### `// about`
 
@@ -22,25 +22,25 @@ understand how it works, then build it better
 I like figuring out how software works under the hood and turning that into practical tools.
 From desktop utilities in Python to native code in C++20, I enjoy projects where the details matter.
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/divider.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/divider.svg" width="100%" alt="">
 
 ### `// stack`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/skills.svg" width="100%" alt="Python, Java, C++20, C#, MinHook">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/skills.svg" width="100%" alt="Python, Java, C++20, C#, MinHook">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/divider.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/divider.svg" width="100%" alt="">
 
 ### `// featured`
 
 <a href="https://github.com/klotyzzx/ModsPort-FOR-STEAM">
-  <img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/project.svg" width="100%" alt="ModsPort FOR STEAM: Steam Workshop downloader for any game">
+  <img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/project.svg" width="100%" alt="ModsPort FOR STEAM: Steam Workshop downloader for any game">
 </a>
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/divider.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/divider.svg" width="100%" alt="">
 
 ### `// open to`
 
@@ -57,6 +57,6 @@ Add your own links here, then remove the comment markers:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/assets/footer.svg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/klotyzzx/klotyzzx/main/footer.svg" width="100%" alt="">
 
 </div>
